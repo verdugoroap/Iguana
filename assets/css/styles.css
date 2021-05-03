@@ -1,0 +1,117 @@
+body{
+    margin: 0;
+    font-family: 'Raleway', sans-serif;
+
+}
+
+
+.nav_bar{
+    background-color: black;
+    padding: 20px;
+    color: white;
+    text-align: center;
+    font-weight: 500;
+    letter-spacing: 2px;
+}
+
+
+.seccion1{
+    margin: 0;
+}
+
+.seccion1 img{
+    margin: 0;
+    width: 100%;
+    display: block;
+}
+.descripcion{
+    background-color: black;
+    color: white;
+    margin: 0;
+    
+}
+
+.contenido{
+    display:inline-block;
+}
+
+.contenido_items{
+    display: inline-block;
+    margin: 0;
+    vertical-align: middle;
+    width: 45%;
+}
+
+.contenido_items img{
+    margin: 10%;
+    width: 80%;
+    display: block;
+
+}
+
+.contenido_items p{
+    margin: 10%;
+    display: inline-block;
+}
+
+.datos{
+    background-color: #1E1A13;
+    padding-top: 80px;
+    padding-bottom: 80px;
+    color: white;
+    text-align: center;
+}
+
+.datos_iguana_cont{
+    display: inline-block;
+    padding: 40px;
+    font-size: 25px;
+}
+
+.datos_iguana_cont i{
+    display: block;
+    padding: 10px;
+    font-size: 40px;
+}
+
+.fotos{
+    background-color: black;
+    padding-top: 20px;
+    padding-bottom: 20px;
+    margin: 0;
+}
+
+.fotos_iguana{
+    display: inline-block;
+
+}
+
+.cont_fotos_iguana img{
+    display: block;
+    width: 300px;
+}
+
+.cont_fotos_iguana{
+    display: inline-block;
+    margin: 0;
+    padding: 5px;
+    padding-left: 70px;
+}
+
+#correccionfoto{
+    width: 350px;
+}
+
+.footer{
+    background-color: #1E1A13;
+    padding-top: 20px;
+    padding-bottom: 20px;
+    text-align: center;
+    
+}
+
+.footer a{
+    color: white;
+    font-size: 300;
+    text-decoration: none;
+}
